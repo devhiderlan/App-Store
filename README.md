@@ -34,7 +34,7 @@ Usando Media Queries o site se torna funcional em telas maiores ou menores, torn
 
 ## Link
 
-Veja o projeto aqui:
+Veja o projeto aqui:  [Acessar🌎](https://devhiderlan.github.io/App-Store/)
 
 ## Autor
 
