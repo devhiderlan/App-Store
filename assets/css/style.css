@@ -1,5 +1,5 @@
 .app {
-  background: #e0f9f1;
+  background: whitesmoke;
   display: grid;
   grid-template-areas:
     'cabecalho'
@@ -11,9 +11,10 @@
 }
 
 .cabecalho {
+  background: whitesmoke;
   display: flex;
   align-items: center;
-  padding: 0 2rem;
+  padding: 2rem 2rem;
   grid-area: cabecalho;
 }
 
@@ -23,8 +24,8 @@
 }
 
 .rodape {
-  background: #fdfdfd;
-  color: #333333;
+  background: whitesmoke;
+  color: black;
   font-size: 1rem;
   grid-area: rodape;
   padding: 1rem;
